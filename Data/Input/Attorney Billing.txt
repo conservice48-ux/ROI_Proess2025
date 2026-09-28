@@ -1,0 +1,52 @@
+Legal standard Fees 1-30 pages is $1.24/PP, and Over 30 pages it will be $00.94/PP, includes $28.00 clerical fees.
+Total {0} Pages
+{1} pages * ${2}/PP =${3}
+Clerical Fees : $28.00
+Total Amount Charged : ${4} + $28.00 = ${5}
+Write-off Ok
+
+
+
+Legal standard Fees 1-30 pages is $1.24/PP, and Over 30 pages it will be $00.94/PP, includes $28.00 clerical fees.
+Total {0} Pages
+{1} pages * ${2}/PP =${3}
+Clerical Fees : $28.00
+Total Amount Charged : ${4} + $28.00 = ${5}
+Write-off Ok
+
+
+Not String.IsNullOrEmpty(in_FaxNo) or boolNoRecords or Not string.IsNullOrEmpty(in_BillingComments)
+
+
+Legal standard Fees 1-30 pages is $1.24/PP, and Over 30 pages it will be $00.94/PP, includes $28.00 clerical fees.&&
+Total {0} Pages&&
+{1} =${2}&&
+Clerical Fees : $28.00&&
+Total Amount Charged : ${3} + $28.00 = ${4}&&
+Write-off Ok
+**********************************************************************************************************************
+EXPIRATION:
+This Authorization will expire 180 days from the date of signing or upon settlemet of my claim.
+if()
+
+in_TransactionItem("Patient Info to be released - All Records").ToString
+in_TransactionItem("Patient Info to be released -Most recent 2 years of records").ToString
+
+
+
+
+
+
+Not in_OtherSearchText.AsEnumerable.any(Function(f) row(DateIndex+2).ToString.ToLower.Contains(f.ToLower) )
+
+
+
+
+
+patientrow("Pat Name").ToString.Split(" ")(0).ToLower.Equals(patientName.ToLower.Split(" ")(1)+","+patientName.ToLower.Split(" ")(0)) And patientrow("Birth Date").ToString.ToLower.Equals(patientDOB.ToLower) And patientrow("Street Address").ToString.ToLower.Contains(patientAddress.ToLower)
+
+
+
+
+{"Office Visit","Consultation"}	
+{"Lab Results","Imaging Results"}
